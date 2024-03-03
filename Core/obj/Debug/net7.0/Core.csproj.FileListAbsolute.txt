@@ -1,0 +1,12 @@
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/bin/Debug/net7.0/Core.deps.json
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/bin/Debug/net7.0/Core.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/bin/Debug/net7.0/Core.pdb
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/Core.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/Core.pdb
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Core/obj/Debug/net7.0/ref/Core.dll

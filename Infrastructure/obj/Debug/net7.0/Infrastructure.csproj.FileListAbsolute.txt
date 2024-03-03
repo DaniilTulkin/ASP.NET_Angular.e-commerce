@@ -1,0 +1,15 @@
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/bin/Debug/net7.0/Core.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/bin/Debug/net7.0/Core.pdb
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
