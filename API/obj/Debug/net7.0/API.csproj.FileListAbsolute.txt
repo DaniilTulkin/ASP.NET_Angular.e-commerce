@@ -71,3 +71,6 @@
 /Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Infrastructure.dll
 /Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Infrastructure.pdb
 /Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Core.pdb
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/API.staticwebassets.runtime.json
