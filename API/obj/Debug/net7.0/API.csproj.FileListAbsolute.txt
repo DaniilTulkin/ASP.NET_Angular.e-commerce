@@ -74,3 +74,11 @@
 /Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/AutoMapper.dll
 /Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/API.staticwebassets.runtime.json
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/daniiltulkin/Documents/github/ASP.NET_Angular.e-commerce/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
